@@ -1,0 +1,1494 @@
+[
+ {
+  "move": "Romanian Deadlifts",
+  "file": "romanian_deadlift.gif",
+  "video": "zkqCtXP3hM8",
+  "t": [
+   105.5,
+   108.2
+  ],
+  "class": "Week 1 S&C with HIIT",
+  "ok": true
+ },
+ {
+  "move": "Gorilla Rows",
+  "file": "gorilla_rows.gif",
+  "video": "zkqCtXP3hM8",
+  "t": [
+   125.0,
+   128.0
+  ],
+  "class": "Week 1 S&C with HIIT",
+  "ok": true
+ },
+ {
+  "move": "Push Ups",
+  "file": "push_ups.gif",
+  "video": "zkqCtXP3hM8",
+  "t": [
+   65.75,
+   67.75
+  ],
+  "class": "Week 1 S&C with HIIT",
+  "ok": true
+ },
+ {
+  "move": "Explosive Sit Ups",
+  "file": "explosive_sit_ups.gif",
+  "video": "zkqCtXP3hM8",
+  "t": [
+   75.0,
+   76.75
+  ],
+  "class": "Week 1 S&C with HIIT",
+  "ok": true
+ },
+ {
+  "move": "Sumo Squats",
+  "file": "sumo_squats.gif",
+  "video": "zkqCtXP3hM8",
+  "t": [
+   155.8,
+   158.2
+  ],
+  "class": "Week 1 S&C with HIIT",
+  "ok": true
+ },
+ {
+  "move": "Double Squats",
+  "file": "double_squats.gif",
+  "video": "zkqCtXP3hM8",
+  "t": [
+   160.6,
+   163.0
+  ],
+  "class": "Week 1 S&C with HIIT",
+  "ok": true
+ },
+ {
+  "move": "Assisted Pull Ups",
+  "file": "assisted_pull_ups.gif",
+  "video": "kJygHphdQDY",
+  "t": [
+   35.3,
+   36.9
+  ],
+  "class": "Week 1 Full Body",
+  "ok": true
+ },
+ {
+  "move": "Leg Press",
+  "file": "leg_press.gif",
+  "video": "kJygHphdQDY",
+  "t": [
+   59.6,
+   62.2
+  ],
+  "class": "Week 1 Full Body",
+  "ok": true
+ },
+ {
+  "move": "Trap Bar Deadlifts",
+  "file": "trap_bar_deadlift.gif",
+  "video": "kJygHphdQDY",
+  "t": [
+   125.5,
+   127.0
+  ],
+  "pingpong": true,
+  "class": "Week 1 Full Body",
+  "ok": true
+ },
+ {
+  "move": "Chest Flyes",
+  "file": "chest_flyes.gif",
+  "video": "kJygHphdQDY",
+  "t": [
+   150.8,
+   154.0
+  ],
+  "class": "Week 1 Full Body",
+  "ok": true
+ },
+ {
+  "move": "Walking Lunges",
+  "file": "walking_lunges.gif",
+  "video": "kJygHphdQDY",
+  "t": [
+   168.2,
+   169.3
+  ],
+  "pingpong": true,
+  "class": "Week 1 Full Body",
+  "ok": true
+ },
+ {
+  "move": "Plank KB Pulls",
+  "file": "plank_kb_pulls.gif",
+  "video": "kJygHphdQDY",
+  "t": [
+   194.0,
+   198.0
+  ],
+  "class": "Week 1 Full Body",
+  "ok": true
+ },
+ {
+  "move": "Plank Pull Through",
+  "file": "plank_kb_pulls.gif",
+  "video": "kJygHphdQDY",
+  "t": [
+   194.0,
+   198.0
+  ],
+  "class": "Week 1 Full Body",
+  "note": "Same move (pull the KB through under the body), Week 11 name",
+  "ok": true
+ },
+ {
+  "move": "Tricep Pushdowns",
+  "file": "tricep_pushdown.gif",
+  "video": "kfPVqyAM-jc",
+  "t": [
+   49.0,
+   52.0
+  ],
+  "class": "Week 1 Upper Body",
+  "ok": true
+ },
+ {
+  "move": "Close Grip Seated Row",
+  "file": "seated_cable_row.gif",
+  "video": "kfPVqyAM-jc",
+  "t": [
+   112.0,
+   114.5
+  ],
+  "class": "Week 1 Upper Body",
+  "ok": true
+ },
+ {
+  "move": "DB Bicep Curls",
+  "file": "bicep_curls.gif",
+  "video": "kfPVqyAM-jc",
+  "t": [
+   143.8,
+   146.2
+  ],
+  "class": "Week 1 Upper Body",
+  "ok": true
+ },
+ {
+  "move": "DB Reverse Flyes",
+  "file": "reverse_flyes.gif",
+  "video": "kfPVqyAM-jc",
+  "t": [
+   200.5,
+   202.6
+  ],
+  "class": "Week 1 Upper Body",
+  "ok": true
+ },
+ {
+  "move": "Cable Upright Row",
+  "file": "cable_upright_row.gif",
+  "video": "kfPVqyAM-jc",
+  "t": [
+   273.0,
+   275.6
+  ],
+  "class": "Week 1 Upper Body",
+  "ok": true
+ },
+ {
+  "move": "DB Around the World",
+  "file": "around_the_world.gif",
+  "video": "kfPVqyAM-jc",
+  "t": [
+   291.0,
+   294.5
+  ],
+  "class": "Week 1 Upper Body",
+  "ok": true
+ },
+ {
+  "move": "DB Side Raises",
+  "file": "side_raises.gif",
+  "video": "kfPVqyAM-jc",
+  "t": [
+   309.5,
+   311.4
+  ],
+  "class": "Week 1 Upper Body",
+  "ok": true
+ },
+ {
+  "move": "DB Front Raises",
+  "file": "front_raises.gif",
+  "video": "kfPVqyAM-jc",
+  "t": [
+   316.1,
+   317.5
+  ],
+  "class": "Week 1 Upper Body",
+  "ok": true
+ },
+ {
+  "move": "Step Ups",
+  "file": "step_ups.gif",
+  "video": "ipIHvtWgsaY",
+  "t": [
+   28.0,
+   31.6
+  ],
+  "class": "Week 1 Lower Body",
+  "ok": true
+ },
+ {
+  "move": "Bulgarian Splits",
+  "file": "bulgarian_splits.gif",
+  "video": "ipIHvtWgsaY",
+  "t": [
+   95.5,
+   97.6
+  ],
+  "class": "Week 1 Lower Body",
+  "ok": true
+ },
+ {
+  "move": "Single Leg Hip Thrusters",
+  "file": "single_leg_hip_thrusters.gif",
+  "video": "ipIHvtWgsaY",
+  "t": [
+   131.5,
+   134.0
+  ],
+  "class": "Week 1 Lower Body",
+  "ok": true
+ },
+ {
+  "move": "Band Squats with Side Step",
+  "file": "band_squat_side_step.gif",
+  "video": "ipIHvtWgsaY",
+  "t": [
+   179.25,
+   182.25
+  ],
+  "class": "Week 1 Lower Body",
+  "ok": true
+ },
+ {
+  "move": "Band Side Squat Walks",
+  "file": "band_squat_side_step.gif",
+  "video": "ipIHvtWgsaY",
+  "t": [
+   179.25,
+   182.25
+  ],
+  "class": "Week 1 Lower Body",
+  "note": "Same move (band, squat and step sideways), Week 16 name",
+  "ok": true
+ },
+ {
+  "move": "Bicycles",
+  "file": "bicycles.gif",
+  "video": "5jD3e4wr2wU",
+  "t": [
+   142.0,
+   144.4
+  ],
+  "class": "Week 1 Bootcamp",
+  "ok": true
+ },
+ {
+  "move": "Plank Jacks with Shoulder Tap",
+  "file": "plank_jacks_shoulder_tap.gif",
+  "video": "5jD3e4wr2wU",
+  "t": [
+   173.5,
+   176.0
+  ],
+  "class": "Week 1 Bootcamp",
+  "ok": true
+ },
+ {
+  "move": "Bosu High Plank Kicks",
+  "file": "bosu_plank_kicks.gif",
+  "video": "MQpvqPm8L8Y",
+  "t": [
+   151.0,
+   155.0
+  ],
+  "class": "Week 2 S&C",
+  "ok": true
+ },
+ {
+  "move": "Bosu Planks with Leg Kicks",
+  "file": "bosu_plank_kicks.gif",
+  "video": "MQpvqPm8L8Y",
+  "t": [
+   151.0,
+   155.0
+  ],
+  "class": "Week 2 S&C",
+  "note": "Same move, Week 12 name",
+  "ok": true
+ },
+ {
+  "move": "Horizontal Rows",
+  "file": "horizontal_rows.gif",
+  "video": "eatX6mWh2YQ",
+  "t": [
+   202.3,
+   205.9
+  ],
+  "class": "Week 2 Full Body",
+  "ok": true
+ },
+ {
+  "move": "Shoulder Press (machine)",
+  "file": "shoulder_press_machine.gif",
+  "video": "nRWlANnYWyo",
+  "t": [
+   22.6,
+   25.0
+  ],
+  "class": "Week 2 Upper Body",
+  "ok": true
+ },
+ {
+  "move": "Barbell Upright Row",
+  "file": "barbell_upright_row.gif",
+  "video": "nRWlANnYWyo",
+  "t": [
+   118.0,
+   120.2
+  ],
+  "class": "Week 2 Upper Body",
+  "ok": true
+ },
+ {
+  "move": "Kick Backs (machine)",
+  "file": "kick_backs_machine.gif",
+  "video": "UWBJ_ATjePc",
+  "t": [
+   89.0,
+   93.4
+  ],
+  "class": "Week 2 Lower Body",
+  "ok": true
+ },
+ {
+  "move": "Kick Backs",
+  "file": "kick_backs_machine.gif",
+  "video": "UWBJ_ATjePc",
+  "t": [
+   89.0,
+   93.4
+  ],
+  "class": "Week 2 Lower Body",
+  "note": "Nell's plain 'Kick Backs' = the kick back machine (Week 2 & Week 7 Lower)",
+  "ok": true
+ },
+ {
+  "move": "Squat w/ Overhead Press",
+  "file": "squat_overhead_press.gif",
+  "video": "YfkcptuzWpw",
+  "t": [
+   118.0,
+   121.6
+  ],
+  "class": "Week 3 S&C",
+  "ok": true
+ },
+ {
+  "move": "Sumo Squat w/ Upright Row",
+  "file": "sumo_squat_upright_row.gif",
+  "video": "YfkcptuzWpw",
+  "t": [
+   174.65,
+   177.8
+  ],
+  "class": "Week 3 S&C",
+  "ok": true
+ },
+ {
+  "move": "Jump Out Squats",
+  "file": "jump_out_squats.gif",
+  "video": "YfkcptuzWpw",
+  "t": [
+   180.5,
+   182.1
+  ],
+  "class": "Week 3 S&C",
+  "ok": true
+ },
+ {
+  "move": "Curtsy Lunges",
+  "file": "curtsy_lunges.gif",
+  "video": "YfkcptuzWpw",
+  "t": [
+   202.45,
+   205.2
+  ],
+  "class": "Week 3 S&C",
+  "ok": true
+ },
+ {
+  "move": "KB Swings",
+  "file": "kb_swings.gif",
+  "video": "YfkcptuzWpw",
+  "t": [
+   217.5,
+   221.0
+  ],
+  "class": "Week 3 S&C",
+  "ok": true
+ },
+ {
+  "move": "Back Squats",
+  "file": "back_squats.gif",
+  "video": "2piE0pFAJmk",
+  "t": [
+   97.75,
+   102.3
+  ],
+  "class": "Week 3 Full Body",
+  "ok": true
+ },
+ {
+  "move": "DB Bench Press",
+  "file": "db_bench_press.gif",
+  "video": "2piE0pFAJmk",
+  "t": [
+   150.8,
+   155.6
+  ],
+  "class": "Week 3 Full Body",
+  "ok": true
+ },
+ {
+  "move": "Reverse Lunges",
+  "file": "reverse_lunges.gif",
+  "video": "YhKRm_asI4Y",
+  "t": [
+   53.0,
+   55.2
+  ],
+  "class": "Week 3 Lower Body",
+  "ok": true
+ },
+ {
+  "move": "Cossack Lunges",
+  "file": "cossack_lunges.gif",
+  "video": "Rme7I2GIqhA",
+  "t": [
+   435.05,
+   437.0
+  ],
+  "class": "Week 4 Full Body",
+  "ok": true
+ },
+ {
+  "move": "Mt Climbers",
+  "file": "mt_climbers.gif",
+  "video": "5jD3e4wr2wU",
+  "t": [
+   58.8,
+   61.0
+  ],
+  "class": "Week 1 Bootcamp",
+  "ok": true
+ },
+ {
+  "move": "Med Ball Chest Press",
+  "file": "med_ball_chest_press.gif",
+  "video": "zBN1oqZTaYo",
+  "t": [
+   68.5,
+   71.5
+  ],
+  "class": "Week 3 Bootcamp",
+  "ok": true
+ },
+ {
+  "move": "Reverse Lunges w/ Front Raise",
+  "file": "reverse_lunge_front_raise.gif",
+  "video": "zBN1oqZTaYo",
+  "t": [
+   93.5,
+   96.4
+  ],
+  "class": "Week 3 Bootcamp",
+  "ok": true
+ },
+ {
+  "move": "Renegade Rows",
+  "file": "renegade_rows.gif",
+  "video": "zBN1oqZTaYo",
+  "t": [
+   113,
+   116.4
+  ],
+  "class": "Week 3 Bootcamp",
+  "ok": true
+ },
+ {
+  "move": "Row into Upright Row",
+  "file": "row_into_upright_row.gif",
+  "video": "zBN1oqZTaYo",
+  "t": [
+   144.6,
+   147.8
+  ],
+  "class": "Week 3 Bootcamp",
+  "ok": true
+ },
+ {
+  "move": "Sand Ball Slams",
+  "file": "sand_ball_slams.gif",
+  "video": "zBN1oqZTaYo",
+  "t": [
+   178,
+   179.5
+  ],
+  "class": "Week 3 Bootcamp",
+  "speed": "1.5x slow",
+  "ok": true
+ },
+ {
+  "move": "Sand Ball / Med Ball Slams",
+  "file": "sand_ball_slams.gif",
+  "video": "zBN1oqZTaYo",
+  "t": [
+   178,
+   179.5
+  ],
+  "class": "Week 3 Bootcamp",
+  "note": "Same move, Week 10 name",
+  "ok": true
+ },
+ {
+  "move": "Sand Ball Side Slams",
+  "file": "sand_ball_side_slams.gif",
+  "video": "zBN1oqZTaYo",
+  "t": [
+   204,
+   207
+  ],
+  "class": "Week 3 Bootcamp",
+  "ok": true
+ },
+ {
+  "move": "KB Squat w/ Overhead Circle",
+  "file": "kb_squat_overhead_circle.gif",
+  "video": "zBN1oqZTaYo",
+  "t": [
+   230,
+   233.2
+  ],
+  "class": "Week 3 Bootcamp",
+  "ok": true
+ },
+ {
+  "move": "Squat w/ Bicep Curl",
+  "file": "squat_bicep_curl.gif",
+  "video": "Rme7I2GIqhA",
+  "t": [
+   21.5,
+   24
+  ],
+  "class": "Week 4 Full Body",
+  "ok": true
+ },
+ {
+  "move": "Pulse Squats",
+  "file": "pulse_squats.gif",
+  "video": "Rme7I2GIqhA",
+  "t": [
+   73.5,
+   77.25
+  ],
+  "class": "Week 4 Full Body",
+  "ok": true
+ },
+ {
+  "move": "Squats + Squat Pulse",
+  "file": "pulse_squats.gif",
+  "video": "Rme7I2GIqhA",
+  "t": [
+   73.5,
+   77.25
+  ],
+  "class": "Week 4 Full Body",
+  "note": "Same move (squat with pulses), Week 14 name",
+  "ok": true
+ },
+ {
+  "move": "DB Shoulder Press",
+  "file": "db_shoulder_press.gif",
+  "video": "Rme7I2GIqhA",
+  "t": [
+   156,
+   158.5
+  ],
+  "class": "Week 4 Full Body",
+  "ok": true
+ },
+ {
+  "move": "DB Tricep Overhead Press",
+  "file": "db_tricep_overhead_press.gif",
+  "video": "Rme7I2GIqhA",
+  "t": [
+   168,
+   170.5
+  ],
+  "class": "Week 4 Full Body",
+  "ok": true
+ },
+ {
+  "move": "Tricep Overheads",
+  "file": "db_tricep_overhead_press.gif",
+  "video": "Rme7I2GIqhA",
+  "t": [
+   168,
+   170.5
+  ],
+  "class": "Week 4 Full Body",
+  "note": "Same move, Week 9 name",
+  "ok": true
+ },
+ {
+  "move": "Split Squats",
+  "file": "split_squats.gif",
+  "video": "Rme7I2GIqhA",
+  "t": [
+   277.4,
+   279.8
+  ],
+  "class": "Week 4 Full Body",
+  "ok": true
+ },
+ {
+  "move": "Bent Over Row",
+  "file": "bent_over_row.gif",
+  "video": "Rme7I2GIqhA",
+  "t": [
+   327.9,
+   330.1
+  ],
+  "class": "Week 4 Full Body",
+  "ok": true
+ },
+ {
+  "move": "DB Bent Over Rows",
+  "file": "bent_over_row.gif",
+  "video": "Rme7I2GIqhA",
+  "t": [
+   327.9,
+   330.1
+  ],
+  "class": "Week 4 Full Body",
+  "note": "Same move (dumbbells), Week 10 name",
+  "ok": true
+ },
+ {
+  "move": "Rotation Planks",
+  "file": "rotation_planks.gif",
+  "video": "Rme7I2GIqhA",
+  "t": [
+   376,
+   380.2
+  ],
+  "class": "Week 4 Full Body",
+  "ok": true
+ },
+ {
+  "move": "Side Lunges",
+  "file": "side_lunges.gif",
+  "video": "Rme7I2GIqhA",
+  "t": [
+   416.5,
+   420.7
+  ],
+  "class": "Week 4 Full Body",
+  "ok": true
+ },
+ {
+  "move": "Up Down Planks",
+  "file": "up_down_planks.gif",
+  "video": "Rme7I2GIqhA",
+  "t": [
+   527.2,
+   532.4
+  ],
+  "class": "Week 4 Full Body",
+  "ok": true
+ },
+ {
+  "move": "Crunches",
+  "file": "crunches.gif",
+  "video": "Rme7I2GIqhA",
+  "t": [
+   590,
+   593
+  ],
+  "class": "Week 4 Full Body",
+  "ok": true
+ },
+ {
+  "move": "TRX Rows",
+  "file": "trx_rows.gif",
+  "video": "EhTxIW8Uzfs",
+  "t": [
+   246,
+   248.6
+  ],
+  "class": "Week 4 Upper Body",
+  "ok": true
+ },
+ {
+  "move": "KB Bent Over Rows",
+  "file": "kb_bent_over_row.gif",
+  "video": "EhTxIW8Uzfs",
+  "t": [
+   265.6,
+   267.5
+  ],
+  "class": "Week 4 Upper Body",
+  "ok": true
+ },
+ {
+  "move": "Double Squat w/ Reverse Lunge",
+  "file": "double_squat_reverse_lunge.gif",
+  "video": "xfCKkNCh4r4",
+  "t": [
+   158.2,
+   162.6
+  ],
+  "class": "Week 4 Lower Body",
+  "ok": true
+ },
+ {
+  "move": "Battle Rope Slams",
+  "file": "battle_rope_slams.gif",
+  "video": "tCySy-kIxwU",
+  "t": [
+   22.5,
+   24.5
+  ],
+  "class": "Week 4 Bootcamp",
+  "ok": true
+ },
+ {
+  "move": "Battle Ropes",
+  "file": "battle_rope_slams.gif",
+  "video": "tCySy-kIxwU",
+  "t": [
+   22.5,
+   24.5
+  ],
+  "class": "Week 4 Bootcamp",
+  "note": "Same move, Week 15 name",
+  "ok": true
+ },
+ {
+  "move": "Squat w/ Barbell Press",
+  "file": "squat_barbell_press.gif",
+  "video": "tCySy-kIxwU",
+  "t": [
+   35,
+   37.6
+  ],
+  "class": "Week 4 Bootcamp",
+  "ok": true
+ },
+ {
+  "move": "Squat w/ Overhead Barbell Press",
+  "file": "squat_barbell_press.gif",
+  "video": "tCySy-kIxwU",
+  "t": [
+   35,
+   37.6
+  ],
+  "class": "Week 4 Bootcamp",
+  "note": "Same move, Week 10 name",
+  "ok": true
+ },
+ {
+  "move": "DB Burpees",
+  "file": "db_burpees.gif",
+  "video": "tCySy-kIxwU",
+  "t": [
+   55.8,
+   61.0
+  ],
+  "class": "Week 4 Bootcamp",
+  "ok": true
+ },
+ {
+  "move": "Wall Balls",
+  "file": "wall_balls.gif",
+  "video": "tCySy-kIxwU",
+  "t": [
+   74.2,
+   76.1
+  ],
+  "class": "Week 4 Bootcamp",
+  "ok": true
+ },
+ {
+  "move": "Burpees",
+  "file": "burpees.gif",
+  "video": "tCySy-kIxwU",
+  "t": [
+   94.4,
+   97.5
+  ],
+  "class": "Week 4 Bootcamp",
+  "ok": true
+ },
+ {
+  "move": "Elevated Reverse Lunges",
+  "file": "elevated_reverse_lunges.gif",
+  "video": "tCySy-kIxwU",
+  "t": [
+   104.2,
+   106.6
+  ],
+  "class": "Week 4 Bootcamp",
+  "ok": true
+ },
+ {
+  "move": "Bench Jump Overs",
+  "file": "bench_jump_overs.gif",
+  "video": "tCySy-kIxwU",
+  "t": [
+   117.2,
+   120.3
+  ],
+  "class": "Week 4 Bootcamp",
+  "ok": true
+ },
+ {
+  "move": "Sled Push",
+  "file": "sled_push.gif",
+  "video": "tCySy-kIxwU",
+  "t": [
+   143.4,
+   146
+  ],
+  "class": "Week 4 Bootcamp",
+  "ok": true
+ },
+ {
+  "move": "Plank Taps",
+  "file": "plank_taps.gif",
+  "video": "Rme7I2GIqhA",
+  "t": [
+   370.7,
+   372.5
+  ],
+  "class": "Week 4 Full Body",
+  "ok": true
+ },
+ {
+  "move": "Shoulder Taps",
+  "file": "plank_taps.gif",
+  "video": "Rme7I2GIqhA",
+  "t": [
+   370.7,
+   372.5
+  ],
+  "class": "Week 4 Full Body",
+  "note": "Same move (high plank, tap each shoulder), Week 15 name",
+  "ok": true
+ },
+ {
+  "move": "Plank Shoulder Taps",
+  "file": "plank_taps.gif",
+  "video": "Rme7I2GIqhA",
+  "t": [
+   370.7,
+   372.5
+  ],
+  "class": "Week 4 Full Body",
+  "note": "Same move (high plank, tap each shoulder), Week 13 name",
+  "ok": true
+ },
+ {
+  "move": "High Plank Shoulder Taps",
+  "file": "plank_taps.gif",
+  "video": "Rme7I2GIqhA",
+  "t": [
+   370.7,
+   372.5
+  ],
+  "class": "Week 4 Full Body",
+  "note": "Same move (high plank, tap each shoulder), Week 13 name",
+  "ok": true
+ },
+ {
+  "move": "Incline Leg Press",
+  "file": "incline_leg_press.gif",
+  "video": "D_oX6-isqUI",
+  "t": [
+   63.05,
+   64.85
+  ],
+  "class": "Week 5 Full Body",
+  "ok": true
+ },
+ {
+  "move": "Barbell Bent Over Row",
+  "file": "barbell_bent_over_row.gif",
+  "video": "D_oX6-isqUI",
+  "t": [
+   82.05,
+   84.6
+  ],
+  "class": "Week 5 Full Body",
+  "ok": true
+ },
+ {
+  "move": "Lat Pull Downs",
+  "file": "lat_pull_downs.gif",
+  "video": "keo2SUqhB_4",
+  "t": [
+   237.6,
+   240.0
+  ],
+  "class": "Week 5 Upper",
+  "ok": true
+ },
+ {
+  "move": "Barbell Shoulder Press",
+  "file": "barbell_shoulder_press.gif",
+  "video": "q3e8X17W5iU",
+  "t": [
+   59.3,
+   62.0
+  ],
+  "class": "Week 6 Full Body",
+  "ok": true
+ },
+ {
+  "move": "KB Squats",
+  "file": "kb_squats.gif",
+  "video": "qZdPW0gxbkc",
+  "t": [
+   114.2,
+   118.1
+  ],
+  "class": "Week 6 Lower",
+  "note": "pause at the bottom (115.7-117.0) cut out",
+  "ok": true
+ },
+ {
+  "move": "Medicine Ball Side Slams",
+  "file": "medicine_ball_side_slams.gif",
+  "video": "ecLM3MWiC6I",
+  "t": [
+   27.45,
+   29.85
+  ],
+  "class": "Week 6 Bootcamp",
+  "ok": true
+ },
+ {
+  "move": "Fitball Plank Toe Taps",
+  "file": "fitball_plank_toe_taps.gif",
+  "video": "ecLM3MWiC6I",
+  "t": [
+   81.8,
+   83.9
+  ],
+  "class": "Week 6 Bootcamp",
+  "pingpong": true,
+  "speed": 1.5,
+  "ok": true
+ },
+ {
+  "move": "Deadlifts",
+  "file": "deadlifts.gif",
+  "video": "13vNZFeuPlc",
+  "t": [
+   119.05,
+   122.2
+  ],
+  "class": "Week 7 Full Body",
+  "note": "pause at the bottom (120.7-121.3) cut out",
+  "ok": true
+ },
+ {
+  "move": "Lying Chest Press",
+  "file": "lying_chest_press.gif",
+  "video": "9WsEp74DB0E",
+  "t": [
+   43.7,
+   45.35
+  ],
+  "class": "Week 7 Upper",
+  "note": "plate-loaded lying chest press machine",
+  "ok": true
+ },
+ {
+  "move": "Lying Bench Press",
+  "file": "lying_chest_press.gif",
+  "video": "9WsEp74DB0E",
+  "t": [
+   43.7,
+   45.35
+  ],
+  "class": "Week 7 Upper",
+  "note": "Same move (lying press machine), Week 7/15 name",
+  "ok": true
+ },
+ {
+  "move": "Seated Row",
+  "file": "seated_row.gif",
+  "video": "9WsEp74DB0E",
+  "t": [
+   172.65,
+   175.05
+  ],
+  "class": "Week 7 Upper",
+  "note": "plate-loaded seated row machine",
+  "ok": true
+ },
+ {
+  "move": "Bosu Push Ups",
+  "file": "bosu_push_ups.gif",
+  "video": "9WsEp74DB0E",
+  "t": [
+   53.75,
+   55.25
+  ],
+  "class": "Week 7 Upper",
+  "note": "on the knees",
+  "ok": true
+ },
+ {
+  "move": "Squat w/ Press",
+  "file": "squat_w_press.gif",
+  "video": "Th-jNL5FOas",
+  "t": [
+   77.7,
+   80.4
+  ],
+  "class": "Week 7 Bootcamp",
+  "note": "DB front-rack squat into overhead press",
+  "ok": true
+ },
+ {
+  "move": "Lying DB Chest Press w/ Crunch",
+  "file": "lying_db_chest_press_crunch.gif",
+  "video": "Th-jNL5FOas",
+  "t": [
+   246.0,
+   249.9
+  ],
+  "class": "Week 7 Bootcamp",
+  "ok": true
+ },
+ {
+  "move": "DB Chest Press w/ Crunch",
+  "file": "lying_db_chest_press_crunch.gif",
+  "video": "Th-jNL5FOas",
+  "t": [
+   246.0,
+   249.9
+  ],
+  "class": "Week 7 Bootcamp",
+  "note": "Same move, Week 14 name",
+  "ok": true
+ },
+ {
+  "move": "Lying Chest Press w/ Crunch",
+  "file": "lying_db_chest_press_crunch.gif",
+  "video": "Th-jNL5FOas",
+  "t": [
+   246.0,
+   249.9
+  ],
+  "class": "Week 7 Bootcamp",
+  "note": "Same move, Week 9 name",
+  "ok": true
+ },
+ {
+  "move": "Step Burpees",
+  "file": "step_burpees.gif",
+  "video": "Th-jNL5FOas",
+  "t": [
+   135.3,
+   138.15
+  ],
+  "class": "Week 7 Bootcamp",
+  "note": "Hands on the step, feet back, then up onto the step",
+  "ok": true
+ },
+ {
+  "move": "Sit Up w/ Press",
+  "file": "sit_up_w_press.gif",
+  "video": "TpbQWM5Lr40",
+  "t": [
+   57.4,
+   61.4
+  ],
+  "class": "Week 8 S&C",
+  "note": "Class member demo (not Nell); camera sideways",
+  "ok": true
+ },
+ {
+  "move": "Sit Up w/ DB Press",
+  "file": "sit_up_w_press.gif",
+  "video": "TpbQWM5Lr40",
+  "t": [
+   57.4,
+   61.4
+  ],
+  "class": "Week 8 S&C",
+  "note": "Same move, Week 14 name",
+  "ok": true
+ },
+ {
+  "move": "Sit Up to Overhead Press",
+  "file": "sit_up_w_press.gif",
+  "video": "TpbQWM5Lr40",
+  "t": [
+   57.4,
+   61.4
+  ],
+  "class": "Week 8 S&C",
+  "note": "Same move, Week 11 name",
+  "ok": true
+ },
+ {
+  "move": "Clean and Press",
+  "file": "clean_and_press.gif",
+  "video": "TpbQWM5Lr40",
+  "t": [
+   69.4,
+   71.4
+  ],
+  "class": "Week 8 S&C",
+  "note": "Class member demo (not Nell); single DB clean into press",
+  "ok": true
+ },
+ {
+  "move": "Donkey Kicks",
+  "file": "donkey_kicks.gif",
+  "video": "Y62F7oXs44M",
+  "t": [
+   32.5,
+   35.0
+  ],
+  "class": "Week 8 Lower",
+  "note": "Class members with a band (not Nell)",
+  "ok": true
+ },
+ {
+  "move": "Jump Squats",
+  "file": "jump_squats.gif",
+  "video": "wX_EOB09hcA",
+  "t": [
+   34.2,
+   38.3
+  ],
+  "class": "Week 9 S&C",
+  "note": "2 reps; feet slightly cropped (caption)",
+  "ok": true
+ },
+ {
+  "move": "Walk Out Push Ups",
+  "file": "walk_out_push_ups.gif",
+  "video": "wX_EOB09hcA",
+  "t": [
+   92.4,
+   99.6
+  ],
+  "class": "Week 9 S&C",
+  "ok": true
+ },
+ {
+  "move": "Squat w/ Single Leg Side Steps",
+  "file": "squat_single_leg_side_steps.gif",
+  "video": "wX_EOB09hcA",
+  "t": [
+   275.6,
+   277.4
+  ],
+  "pingpong": true,
+  "class": "Week 9 S&C",
+  "note": "Band around knees, holding a plate",
+  "ok": true
+ },
+ {
+  "move": "Incline DB Bench Press",
+  "file": "incline_db_bench_press.gif",
+  "video": "ws3582Dr60g",
+  "t": [
+   66.2,
+   67.9
+  ],
+  "class": "Week 9 Upper",
+  "note": "Class member (not Nell); close-up",
+  "ok": true
+ },
+ {
+  "move": "Hip Thrusters",
+  "file": "hip_thrusters.gif",
+  "video": "bUJmasd5LGE",
+  "t": [
+   66.8,
+   68.3
+  ],
+  "class": "Week 9 Lower",
+  "note": "Hip thrust machine",
+  "ok": true
+ },
+ {
+  "move": "Pistol Squats",
+  "file": "pistol_squats.gif",
+  "video": "0vDRYRVNryQ",
+  "t": [
+   30.9,
+   33.9
+  ],
+  "class": "Week 10 Full Body",
+  "note": "Class member (not Nell); single-leg sit to bench, holding a plate",
+  "ok": true
+ },
+ {
+  "move": "DB Hammer Curl into Shoulder Press",
+  "file": "db_hammer_curl_shoulder_press.gif",
+  "video": "sSFPZKWbBEQ",
+  "t": [
+   196.6,
+   201.6
+  ],
+  "class": "Week 10 Upper",
+  "ok": true
+ },
+ {
+  "move": "Hammer Curl into Press",
+  "file": "db_hammer_curl_shoulder_press.gif",
+  "video": "sSFPZKWbBEQ",
+  "t": [
+   196.6,
+   201.6
+  ],
+  "class": "Week 10 Upper",
+  "note": "Same move, Week 8 name",
+  "ok": true
+ },
+ {
+  "move": "Get Up to Push Up",
+  "file": "get_up_to_push_up.gif",
+  "video": "sSFPZKWbBEQ",
+  "t": [
+   128.6,
+   136.35
+  ],
+  "class": "Week 10 Upper",
+  "note": "Standing → plank → forearms → hands → one knee push up (down and back up)",
+  "ok": true
+ },
+ {
+  "move": "Single Arm Rows",
+  "file": "single_arm_rows.gif",
+  "video": "sSFPZKWbBEQ",
+  "t": [
+   58.5,
+   64.5
+  ],
+  "class": "Week 10 Upper",
+  "note": "Knee and hand on the bench",
+  "ok": true
+ },
+ {
+  "move": "Goblet Squats",
+  "file": "goblet_squats.gif",
+  "video": "VXQP1MNtTRI",
+  "t": [
+   74.6,
+   77.0
+  ],
+  "class": "Week 10 Lower",
+  "note": "Heels raised on a step",
+  "ok": true
+ },
+ {
+  "move": "Wall Sit",
+  "file": "wall_sit.gif",
+  "video": "35ZyZtIkPik",
+  "t": [
+   80.2,
+   82.0
+  ],
+  "class": "Week 10 Bootcamp",
+  "note": "Class members holding a plate (not Nell); static hold",
+  "ok": true
+ },
+ {
+  "move": "Reverse Lunges w/ Bicep Curl",
+  "file": "reverse_lunges_bicep_curl.gif",
+  "video": "d_kSaKbvUJs",
+  "t": [
+   66.8,
+   69.35
+  ],
+  "class": "Week 11 Full Body",
+  "ok": true
+ },
+ {
+  "move": "V Hold w/ Med Ball Throws",
+  "file": "v_hold_med_ball_throws.gif",
+  "video": "k7k9sMP9T-U",
+  "t": [
+   120.8,
+   124.8
+  ],
+  "class": "Week 11 S&C",
+  "ok": true
+ },
+ {
+  "move": "DB Side to Front Raises",
+  "file": "db_side_to_front_raises.gif",
+  "video": "7pGytxR-K8g",
+  "t": [
+   39.75,
+   43.2
+  ],
+  "class": "Week 12 Upper",
+  "note": "Side raise, then front raise",
+  "ok": true
+ },
+ {
+  "move": "Incline Sit Up w/ Press",
+  "file": "incline_sit_up_press.gif",
+  "video": "7pGytxR-K8g",
+  "t": [
+   144.7,
+   148.0
+  ],
+  "class": "Week 12 Upper",
+  "note": "Med ball, decline bench",
+  "ok": true
+ },
+ {
+  "move": "Incline Sit Up w/ Russian Twist",
+  "file": "incline_sit_up_russian_twist.gif",
+  "video": "7pGytxR-K8g",
+  "t": [
+   157.6,
+   161.6
+  ],
+  "class": "Week 12 Upper",
+  "note": "Med ball, decline bench",
+  "ok": true
+ },
+ {
+  "move": "Barbell Bicep Curls",
+  "file": "barbell_bicep_curls.gif",
+  "video": "zpkAa_HvpXk",
+  "t": [
+   29.4,
+   32.1
+  ],
+  "class": "Week 13 Upper",
+  "note": "Class member (not Nell), EZ bar; legs cropped (caption)",
+  "ok": true
+ },
+ {
+  "move": "V Hold Med Ball Russian Twist Slams",
+  "file": "v_hold_russian_twist_slams.gif",
+  "video": "pW2PY6bfOfM",
+  "t": [
+   159.6,
+   163.7
+  ],
+  "class": "Week 13 S&C",
+  "note": "Ball slammed to each side from a V hold",
+  "ok": true
+ },
+ {
+  "move": "Deadbugs",
+  "file": "deadbugs.gif",
+  "video": "ZMkVQUndqRo",
+  "t": [
+   22.8,
+   25.65
+  ],
+  "class": "Week 14 Upper & Core",
+  "note": "Class members (not Nell); several reps, full movement"
+ },
+ {
+  "move": "Toe Pikes",
+  "file": "toe_pikes.gif",
+  "video": "ZMkVQUndqRo",
+  "t": [
+   48.7,
+   52.0
+  ],
+  "class": "Week 14 Upper & Core",
+  "note": "Class member (not Nell); several full pike reps"
+ },
+ {
+  "move": "Side Lunge + Lunge Pulse",
+  "file": "side_lunge_pulse.gif",
+  "video": "GyekoMP16X8",
+  "t": [
+   30.05,
+   33.65
+  ],
+  "class": "Week 14 Lower",
+  "note": "Class members (not Nell); step out, pulses, side lunge with DB"
+ },
+ {
+  "move": "Bench V Front Raises",
+  "file": "bench_v_front_raises.gif",
+  "video": "2epO8tjG_wY",
+  "t": [
+   3.56,
+   5.84
+  ],
+  "class": "Week 15 Upper",
+  "note": "Class member (not Nell); one full rep: arms down, raise forward in a V, back down; hips cropped (caption)"
+ },
+ {
+  "move": "Reverse Crunches",
+  "file": "reverse_crunches.gif",
+  "video": "jRP9wNyGygA",
+  "t": [
+   120.3,
+   123.7
+  ],
+  "class": "Week 16 Full Body",
+  "ok": true
+ },
+ {
+  "move": "Toe Reaches",
+  "file": "toe_reaches.gif",
+  "video": "jRP9wNyGygA",
+  "t": [
+   132.8,
+   136.6
+  ],
+  "class": "Week 16 Full Body",
+  "note": "Lying, legs up, reach for the toes",
+  "ok": true
+ },
+ {
+  "move": "Lying Toe Reaches",
+  "file": "toe_reaches.gif",
+  "video": "jRP9wNyGygA",
+  "t": [
+   132.8,
+   136.6
+  ],
+  "class": "Week 16 Full Body",
+  "note": "Same move, Week 16 name",
+  "ok": true
+ }
+]
