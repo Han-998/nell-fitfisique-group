@@ -1,0 +1,6 @@
+{
+  "name": "nell-fitfisique-group",
+  "compatibility_date": "2026-11-04",
+  "workers_dev": true,
+  "assets": { "directory": ".", "not_found_handling": "single-page-application" }
+}
