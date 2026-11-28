@@ -1430,7 +1430,8 @@
   ],
   "class": "Week 14 Upper & Core",
   "note": "Class members (not Nell); several reps, full movement",
-  "by": "class"
+  "by": "class",
+  "ok": true
  },
  {
   "move": "Toe Pikes",
@@ -1442,7 +1443,8 @@
   ],
   "class": "Week 14 Upper & Core",
   "note": "Class member (not Nell); several full pike reps",
-  "by": "class"
+  "by": "class",
+  "ok": true
  },
  {
   "move": "Side Lunge + Lunge Pulse",
@@ -1454,7 +1456,8 @@
   ],
   "class": "Week 14 Lower",
   "note": "Class members (not Nell); step out, pulses, side lunge with DB",
-  "by": "class"
+  "by": "class",
+  "ok": true
  },
  {
   "move": "Bench V Front Raises",
@@ -1466,7 +1469,8 @@
   ],
   "class": "Week 15 Upper",
   "note": "Class member (not Nell); one full rep: arms down, raise forward in a V, back down; hips cropped (caption)",
-  "by": "class"
+  "by": "class",
+  "ok": true
  },
  {
   "move": "Reverse Crunches",
@@ -1804,6 +1808,56 @@
   "class": "Week 12 Tabata",
   "note": "Class member (not Nell); slowed down after review (was too fast)",
   "ok": true,
+  "by": "class"
+ },
+ {
+  "move": "Battle Rope Waves",
+  "file": "battle_rope_waves.gif",
+  "video": "ecLM3MWiC6I",
+  "t": [
+   129.6,
+   132.1
+  ],
+  "class": "Week 6 Bootcamp",
+  "note": "Nell; cropped above the caption",
+  "ok": true
+ },
+ {
+  "move": "Step Squats",
+  "file": "step_squats.gif",
+  "video": "xfCKkNCh4r4",
+  "t": [
+   82.4,
+   87.4
+  ],
+  "class": "Week 4 Lower Body Strength",
+  "note": "Nell with dumbbells",
+  "ok": true
+ },
+ {
+  "move": "Cable Face Pulls",
+  "file": "cable_face_pulls.gif",
+  "video": "ws3582Dr60g",
+  "t": [
+   52.4,
+   55.1
+  ],
+  "class": "Week 9 Upper Body",
+  "note": "Class member (not Nell)",
+  "ok": false,
+  "by": "class"
+ },
+ {
+  "move": "Stairs",
+  "file": "stairs.gif",
+  "video": "Th-jNL5FOas",
+  "t": [
+   349.6,
+   352.2
+  ],
+  "class": "Week 7 Bootcamp",
+  "note": "Class member running up the stairs (not Nell)",
+  "ok": false,
   "by": "class"
  }
 ]
