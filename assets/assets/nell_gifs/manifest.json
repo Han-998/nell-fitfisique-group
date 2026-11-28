@@ -1137,7 +1137,8 @@
   ],
   "class": "Week 8 S&C",
   "note": "Class member demo (not Nell); camera sideways",
-  "ok": true
+  "ok": true,
+  "by": "class"
  },
  {
   "move": "Sit Up w/ DB Press",
@@ -1149,7 +1150,8 @@
   ],
   "class": "Week 8 S&C",
   "note": "Same move, Week 14 name",
-  "ok": true
+  "ok": true,
+  "by": "class"
  },
  {
   "move": "Sit Up to Overhead Press",
@@ -1161,7 +1163,8 @@
   ],
   "class": "Week 8 S&C",
   "note": "Same move, Week 11 name",
-  "ok": true
+  "ok": true,
+  "by": "class"
  },
  {
   "move": "Clean and Press",
@@ -1173,7 +1176,8 @@
   ],
   "class": "Week 8 S&C",
   "note": "Class member demo (not Nell); single DB clean into press",
-  "ok": true
+  "ok": true,
+  "by": "class"
  },
  {
   "move": "Donkey Kicks",
@@ -1185,7 +1189,8 @@
   ],
   "class": "Week 8 Lower",
   "note": "Class members with a band (not Nell)",
-  "ok": true
+  "ok": true,
+  "by": "class"
  },
  {
   "move": "Jump Squats",
@@ -1233,7 +1238,8 @@
   ],
   "class": "Week 9 Upper",
   "note": "Class member (not Nell); close-up",
-  "ok": true
+  "ok": true,
+  "by": "class"
  },
  {
   "move": "Hip Thrusters",
@@ -1328,7 +1334,8 @@
   ],
   "class": "Week 10 Bootcamp",
   "note": "Class members holding a plate (not Nell); static hold",
-  "ok": true
+  "ok": true,
+  "by": "class"
  },
  {
   "move": "Reverse Lunges w/ Bicep Curl",
@@ -1398,7 +1405,8 @@
   ],
   "class": "Week 13 Upper",
   "note": "Class member (not Nell), EZ bar; legs cropped (caption)",
-  "ok": true
+  "ok": true,
+  "by": "class"
  },
  {
   "move": "V Hold Med Ball Russian Twist Slams",
@@ -1421,7 +1429,8 @@
    25.65
   ],
   "class": "Week 14 Upper & Core",
-  "note": "Class members (not Nell); several reps, full movement"
+  "note": "Class members (not Nell); several reps, full movement",
+  "by": "class"
  },
  {
   "move": "Toe Pikes",
@@ -1432,7 +1441,8 @@
    52.0
   ],
   "class": "Week 14 Upper & Core",
-  "note": "Class member (not Nell); several full pike reps"
+  "note": "Class member (not Nell); several full pike reps",
+  "by": "class"
  },
  {
   "move": "Side Lunge + Lunge Pulse",
@@ -1443,7 +1453,8 @@
    33.65
   ],
   "class": "Week 14 Lower",
-  "note": "Class members (not Nell); step out, pulses, side lunge with DB"
+  "note": "Class members (not Nell); step out, pulses, side lunge with DB",
+  "by": "class"
  },
  {
   "move": "Bench V Front Raises",
@@ -1454,7 +1465,8 @@
    5.84
   ],
   "class": "Week 15 Upper",
-  "note": "Class member (not Nell); one full rep: arms down, raise forward in a V, back down; hips cropped (caption)"
+  "note": "Class member (not Nell); one full rep: arms down, raise forward in a V, back down; hips cropped (caption)",
+  "by": "class"
  },
  {
   "move": "Reverse Crunches",
@@ -1489,6 +1501,234 @@
   ],
   "class": "Week 16 Full Body",
   "note": "Same move, Week 16 name",
+  "ok": true
+ },
+ {
+  "move": "Abductors",
+  "file": "abductors.gif",
+  "video": "eatX6mWh2YQ",
+  "t": [
+   281,
+   292
+  ],
+  "class": "Week 2 Full Body Strength",
+  "ok": true
+ },
+ {
+  "move": "Hamstring Curls",
+  "file": "hamstring_curls.gif",
+  "video": "eatX6mWh2YQ",
+  "t": [
+   39,
+   47
+  ],
+  "class": "Week 2 Full Body Strength",
+  "ok": true
+ },
+ {
+  "move": "Leg Curls",
+  "file": "hamstring_curls.gif",
+  "video": "eatX6mWh2YQ",
+  "t": [
+   39,
+   47
+  ],
+  "class": "Week 2 Full Body Strength",
+  "ok": true
+ },
+ {
+  "move": "Cross Trainer",
+  "file": "cross_trainer.gif",
+  "video": "MQpvqPm8L8Y",
+  "t": [
+   185,
+   187.5
+  ],
+  "class": "Week 2 Strength & Conditioning",
+  "ok": true,
+  "by": "class"
+ },
+ {
+  "move": "Rowing Machine",
+  "file": "rowing_machine.gif",
+  "video": "MQpvqPm8L8Y",
+  "t": [
+   191,
+   193
+  ],
+  "class": "Week 2 Strength & Conditioning",
+  "ok": true,
+  "by": "class"
+ },
+ {
+  "move": "Row",
+  "file": "rowing_machine.gif",
+  "video": "MQpvqPm8L8Y",
+  "t": [
+   191,
+   193
+  ],
+  "class": "Week 2 Strength & Conditioning",
+  "ok": true,
+  "by": "class"
+ },
+ {
+  "move": "Row Sprint",
+  "file": "rowing_machine.gif",
+  "video": "MQpvqPm8L8Y",
+  "t": [
+   191,
+   193
+  ],
+  "class": "Week 2 Strength & Conditioning",
+  "ok": true,
+  "by": "class"
+ },
+ {
+  "move": "Ski Erg",
+  "file": "ski_erg.gif",
+  "video": "MQpvqPm8L8Y",
+  "t": [
+   198,
+   199
+  ],
+  "class": "Week 2 Strength & Conditioning",
+  "ok": true,
+  "by": "class"
+ },
+ {
+  "move": "Ski Erg Sprint",
+  "file": "ski_erg.gif",
+  "video": "MQpvqPm8L8Y",
+  "t": [
+   198,
+   199
+  ],
+  "class": "Week 2 Strength & Conditioning",
+  "ok": true,
+  "by": "class"
+ },
+ {
+  "move": "Assault Bike",
+  "file": "assault_bike.gif",
+  "video": "MQpvqPm8L8Y",
+  "t": [
+   200.6,
+   201.5
+  ],
+  "class": "Week 2 Strength & Conditioning",
+  "ok": true,
+  "by": "class"
+ },
+ {
+  "move": "Assault Bike Sprint",
+  "file": "assault_bike.gif",
+  "video": "MQpvqPm8L8Y",
+  "t": [
+   200.6,
+   201.5
+  ],
+  "class": "Week 2 Strength & Conditioning",
+  "ok": true,
+  "by": "class"
+ },
+ {
+  "move": "Jump Lunges",
+  "file": "jump_lunges.gif",
+  "video": "5jD3e4wr2wU",
+  "t": [
+   105.6,
+   110.2
+  ],
+  "class": "Week 1 Bootcamp",
+  "ok": true
+ },
+ {
+  "move": "Plank Jacks",
+  "file": "plank_jacks.gif",
+  "video": "5jD3e4wr2wU",
+  "t": [
+   168,
+   176
+  ],
+  "class": "Week 1 Bootcamp",
+  "ok": true
+ },
+ {
+  "move": "Chest Press",
+  "file": "chest_press.gif",
+  "video": "nRWlANnYWyo",
+  "t": [
+   45.6,
+   51
+  ],
+  "class": "Week 2 Upper Body Strength",
+  "ok": true
+ },
+ {
+  "move": "Tricep Push Ups",
+  "file": "tricep_push_ups.gif",
+  "video": "nRWlANnYWyo",
+  "t": [
+   59,
+   65
+  ],
+  "class": "Week 2 Upper Body Strength",
+  "ok": true
+ },
+ {
+  "move": "High Knees",
+  "file": "high_knees.gif",
+  "video": "YfkcptuzWpw",
+  "t": [
+   133.4,
+   137
+  ],
+  "class": "Week 3 Strength & Conditioning",
+  "ok": true
+ },
+ {
+  "move": "Supermans",
+  "file": "supermans.gif",
+  "video": "YfkcptuzWpw",
+  "t": [
+   188,
+   194.6
+  ],
+  "class": "Week 3 Strength & Conditioning",
+  "ok": true
+ },
+ {
+  "move": "Plank Supermans",
+  "file": "supermans.gif",
+  "video": "YfkcptuzWpw",
+  "t": [
+   188,
+   194.6
+  ],
+  "class": "Week 3 Strength & Conditioning",
+  "ok": true
+ },
+ {
+  "move": "Squats",
+  "file": "squats.gif",
+  "video": "ipIHvtWgsaY",
+  "t": [
+   65,
+   69.6
+  ],
+  "class": "Week 1 Lower Body Strength",
+  "ok": true
+ },
+ {
+  "move": "Dumbbell Squats",
+  "file": "squats.gif",
+  "video": "ipIHvtWgsaY",
+  "t": [
+   65,
+   69.6
+  ],
+  "class": "Week 1 Lower Body Strength",
   "ok": true
  }
 ]
