@@ -1844,7 +1844,7 @@
   ],
   "class": "Week 9 Upper Body",
   "note": "Class member (not Nell)",
-  "ok": false,
+  "ok": true,
   "by": "class"
  },
  {
@@ -1857,7 +1857,7 @@
   ],
   "class": "Week 7 Bootcamp",
   "note": "Class member running up the stairs (not Nell)",
-  "ok": false,
+  "ok": true,
   "by": "class"
  }
 ]
