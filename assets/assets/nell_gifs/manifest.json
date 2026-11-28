@@ -1730,5 +1730,80 @@
   ],
   "class": "Week 1 Lower Body Strength",
   "ok": true
+ },
+ {
+  "move": "Fire Hydrants",
+  "file": "fire_hydrants.gif",
+  "video": "YhKRm_asI4Y",
+  "t": [
+   149,
+   157
+  ],
+  "class": "Week 3 Lower Body Strength",
+  "note": "Nell with a band",
+  "ok": true
+ },
+ {
+  "move": "Donkey Kicks",
+  "file": "donkey_kicks_nell.gif",
+  "video": "YhKRm_asI4Y",
+  "t": [
+   244.5,
+   253.5
+  ],
+  "class": "Week 3 Lower Body Strength",
+  "note": "Nell's own demo; replaces the class clip once approved",
+  "ok": true
+ },
+ {
+  "move": "Box Jumps",
+  "file": "box_jumps.gif",
+  "video": "tCySy-kIxwU",
+  "t": [
+   45.6,
+   49
+  ],
+  "class": "Week 4 Bootcamp",
+  "note": "Nell jumping onto a step",
+  "ok": true
+ },
+ {
+  "move": "Knee Tucks",
+  "file": "knee_tucks.gif",
+  "video": "dieRfHT4lgI",
+  "t": [
+   29,
+   30.9
+  ],
+  "class": "Week 8 Upper Body Conditioning",
+  "note": "Class member, seated knee tucks (not Nell)",
+  "ok": true,
+  "by": "class"
+ },
+ {
+  "move": "Arnie Shoulder Press",
+  "file": "arnie_shoulder_press_2.gif",
+  "video": "ZMkVQUndqRo",
+  "t": [
+   11.7,
+   13.3
+  ],
+  "class": "Week 14 Upper & Core",
+  "note": "Class member (not Nell)",
+  "ok": false,
+  "by": "class"
+ },
+ {
+  "move": "Push Ups w/ Shoulder Tap",
+  "file": "push_ups_w_shoulder_tap_2.gif",
+  "video": "t28EVf6CEtw",
+  "t": [
+   64.7,
+   66.9
+  ],
+  "class": "Week 12 Tabata",
+  "note": "Class member (not Nell); slowed down after review (was too fast)",
+  "ok": false,
+  "by": "class"
  }
 ]
